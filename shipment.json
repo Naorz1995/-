@@ -1,0 +1,34 @@
+{
+  "Shipments to the following cities": [
+    {
+      "city": "tel aviv",
+      "Delivery time": "10 days",
+      "item trace number": "26770",
+      "Delivery price": "12$"
+    },
+    {
+      "city": "Haifa",
+      "Delivery time": "7 days",
+      "item trace number": "25637",
+      "Delivery price": "9$"
+    },
+    {
+      "city": "Jerusalem",
+      "Delivery time": "6 days",
+      "item trace number": "36779",
+      "Delivery price": "5$"
+    },
+    {
+      "city": "Eilat",
+      "Delivery time": "14 days",
+      "item trace number": "93772",
+      "Delivery price": "20$"
+    },
+    {
+      "city": "Ashkelon",
+      "Delivery time": "7 days",
+      "item trace number": "45829",
+      "Delivery price": "9$"
+    }
+  ]
+}

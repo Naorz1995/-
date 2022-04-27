@@ -1,0 +1,39 @@
+{
+"textbook 2000-2010": [
+{
+"science textbook":[
+  { "name": "The Story of Earth", "price": "30$", "Publisher": "University of Houston" },
+  { "name": "Surveying and Mapping", "price": "20$", "Publisher": "TU Delft Open" },
+  { "name": "Organic Chemistry ", "price": "50$", "Publisher": " Kwantlen Polytechnic University" }
+],
+"Psychology textbook": [
+  { "name": "Educational Psychology", "price": "20$", "Publisher": "University of Manitoba" },
+  { "name": "Psychology - 2e", "price": "20$", "Publisher": "OpenStax" },
+  { "name": "Discover Psychology 2.0", "price": "20$", "Publisher": "Nobav" }
+],
+"U.S. History textbook": [
+  { "name": "U.S. History", "price": "20$", "Publisher": "OpenStax" },
+  { "name": "Placing the History of College Writing", "price": "20$", "Publisher": "WAC Clearinghouse" },
+  { "name": "History in the Making", "price": "20$", "Publisher": "The University Press of North Georgia" }
+]
+}],
+"textbook 2011-2022": [
+{
+  "science textbook": [
+    { "name": "Tree Steward Manual", "price": "20$", "Publisher": " Virginia Tech Publishing" },
+    { "name": "Impact of Materials on Society", "price": "30$", "Publisher": "University of Florida" },
+    { "name": "Future Energy", "price": "60$", "Publisher": "The University of Tennessee Libraries" }
+  ],
+  "Psychology textbook": [
+    { "name": "Introduction to Psychology", "price": "20$", "Publisher": "Noba" },
+    { "name": "Psychology as a Biological Science", "price": "20$", "Publisher": "Noba" },
+    { "name": "Together: The Science of Social Psychology", "price": "20$", "Publisher": "Noba" }
+  ],
+  "U.S. History textbook": [
+    { "name": "World History", "price": "50$", "Publisher": "University of North Georgia Press" },
+    { "name": "Tajik Persian: Readings in History, Culture and Society", "price": "20$", "Publisher": " University of Kansas Libraries" },
+    { "name": "The History of Our Tribe", "price": "20$", "Publisher": "Open SUNY" }
+  ]
+}
+]
+}
