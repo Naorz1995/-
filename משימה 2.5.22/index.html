@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="import-fullname"></div>
+    <div id="import-user-name"></div>
+    <div id="import-age"></div>
+</body>
+<script>
+fetch('http://localhost:3001/profile')
+.then(data=> data.json())
+.then(dataObj=>display(dataObj)
+
+);
+
+function display(content){
+ document.getElementById('import-user-name').innerHTML = content.fullName;
+    document.getElementById('import-fullname').innerHTML = content.userName;
+ document.getElementById('import-age').innerHTML = content.age;
+}
+</script>
+</html>
